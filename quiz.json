@@ -1,19 +1,84 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of popular cartoon characters.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Who lives in a pineapple under the sea?",
+      "answers": ["Sponge", "Patrick", "Squid"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who is Bart's dad?",
+      "answers": ["Homer", "Ned", "Abe"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who is a talking dog detective?",
+      "answers": ["Scooby", "Pluto", "Brian"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is Mickey's girlfriend?",
+      "answers": ["Minnie", "Daisy", "Lola"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is a sailor with spinach?",
+      "answers": ["Popeye", "Bluto", "Wimpy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is a clever mouse?",
+      "answers": ["Jerry", "Mickey", "Speedy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is always after the Road Runner?",
+      "answers": ["Coyote", "Sylvester", "Elmer"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is a rabbit with a carrot?",
+      "answers": ["Bugs", "Roger", "Buster"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is a girl detective?",
+      "answers": ["Daphne", "Velma", "Lucy"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who has a magic lamp?",
+      "answers": ["Aladdin", "Genie", "Jafar"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is a space ranger?",
+      "answers": ["Buzz", "Woody", "Rex"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the fastest hedgehog?",
+      "answers": ["Sonic", "Tails", "Knuckles"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is a friendly ghost?",
+      "answers": ["Casper", "Spooky", "Danny"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is a yellow canary?",
+      "answers": ["Tweety", "BigBird", "Donald"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is a cat chasing a mouse?",
+      "answers": ["Tom", "Sylvester", "Garfield"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the superhero of Townsville?",
+      "answers": ["Blossom", "Bubbles", "Buttercup"],
       "correctAnswerIndex": 0
     }
   ]
